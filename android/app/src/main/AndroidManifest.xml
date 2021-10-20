@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tedu.com.vn.flutter_stateless_widgets">
+    package="com.druginfomobileapp.druginfomobileapp">
    <application
-        android:label="flutter_stateless_widgets"
+        android:label="druginfomobileapp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
