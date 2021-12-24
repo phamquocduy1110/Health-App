@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/#6 - BLoC Access/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#6 - BLoC Access/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#6 - BLoC Access/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#9 - BLoC 6.1.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#9 - BLoC 6.1.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#9 - BLoC 6.1.0/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#12 - Final topics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#12 - Final topics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#12 - Final topics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#11 - Maintaining State with Hydrated Bloc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#11 - Maintaining State with Hydrated Bloc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#11 - Maintaining State with Hydrated Bloc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#8 - BuildContexts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#8 - BuildContexts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#8 - BuildContexts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#3 - Flutter Bloc Concepts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#3 - Flutter Bloc Concepts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#3 - Flutter Bloc Concepts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#7 - BLoC Communication/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#7 - BLoC Communication/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#7 - BLoC Communication/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#2 - Bloc Concepts - Streams, Blocs, Cubits/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#2 - Bloc Concepts - Streams, Blocs, Cubits/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#2 - Bloc Concepts - Streams, Blocs, Cubits/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#5 - BLoC Testing/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#5 - BLoC Testing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/#5 - BLoC Testing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#10 - State not updating/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/#10 - State not updating/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/#10 - State not updating/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
